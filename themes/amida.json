@@ -1,0 +1,25 @@
+{
+    "name": "Amida",
+    "comment": "Tilix Theme Based on Argonaut",
+    "use-theme-colors": false,
+    "foreground-color": "#ffffff",
+    "background-color": "#222222",
+    "palette": [
+        "#111111",
+        "#ff000f",
+        "#1cdd83",
+        "#ffb900",
+        "#008df8",
+        "#fc75ff",
+        "#00d8eb",
+        "#ffffff",
+        "#565656",
+        "#ff4351",
+        "#b8e36d",
+        "#ffd952",
+        "#8cd0d3",
+        "#ac7bf0",
+        "#74fdf3",
+        "#ffffff"
+    ]
+}
